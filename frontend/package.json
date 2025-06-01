@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "pdf_scanner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
