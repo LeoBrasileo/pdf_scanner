@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 
-const apiUrl = "http://127.0.0.1:8000";
+const apiUrl = "http://localhost:8000";
 
 function PdfUploader({ onFileSelect, onTextExtracted }) {
   const [error, setError] = useState(null);
