@@ -40,3 +40,9 @@ npm install
 npm run start
 ```
 
+## Possible Web Infrastructure
+
+Use Vercel for frontend, and host the Backend API on AWS Lambda
+
+![Infrastructure Diagram](infra.png)
+
